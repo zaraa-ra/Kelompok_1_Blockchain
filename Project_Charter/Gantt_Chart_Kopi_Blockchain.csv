@@ -1,0 +1,95 @@
+﻿GANTT CHART — Pelacakan Rantai Pasok Kopi Lokal Berbasis Blockchain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Anggota Tim:,,Zahratul Ahya (202332001)  |  Nabila Nur Ramadhan (202332002)  |  Zahra Windi Aulia (202332013)  |  Karina Distyara P.M. (202332014),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dosen Pengampu:,,"Riani Saputri Abadi, ST., M.Kom",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEGENDA:,,✔ Done,▶ Current/Ongoing,○ Planned/Future,▦ Weekend,▬ Phase Header,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+No,Aktivitas / Deskripsi Tugas,Penanggung Jawab,Mulai,Selesai,"Durasi
+(Hari)",Status,April 2026,May 2026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,June 2026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,July 2026,,,
+,,,,,,,"30
+Kam","1
+Jum","2
+Sab","3
+Min","4
+Sen","5
+Sel","6
+Rab","7
+Kam","8
+Jum","9
+Sab","10
+Min","11
+Sen","12
+Sel","13
+Rab","14
+Kam","15
+Jum","16
+Sab","17
+Min","18
+Sen","19
+Sel","20
+Rab","21
+Kam","22
+Jum","23
+Sab","24
+Min","25
+Sen","26
+Sel","27
+Rab","28
+Kam","29
+Jum","30
+Sab","31
+Min","1
+Sen","2
+Sel","3
+Rab","4
+Kam","5
+Jum","6
+Sab","7
+Min","8
+Sen","9
+Sel","10
+Rab","11
+Kam","12
+Jum","13
+Sab","14
+Min","15
+Sen","16
+Sel","17
+Rab","18
+Kam","19
+Jum","20
+Sab","21
+Min","22
+Sen","23
+Sel","24
+Rab","25
+Kam","26
+Jum","27
+Sab","28
+Min","29
+Sen","30
+Sel","1
+Rab","2
+Kam","3
+Jum","4
+Sab"
+,TAHAP UTS — Konsep & Rancangan,,30 Apr 2026,06 May 2026,7,DONE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Brainstorming Judul & Penentuan Aktor (1.1–1.4),Ayin,30 Apr 2026,01 May 2026,2,Done,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Riset Dasar Teori & 5 Referensi (Bab 2),Zahra Windi,01 May 2026,02 May 2026,2,Done,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Analisis Masalah & Studi Banding IBM (Bab 3),Ayin,02 May 2026,03 May 2026,2,Done,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Pembuatan Diagram Arsitektur & Flowchart (4.1–4.2),Zahratul & Zahra,03 May 2026,04 May 2026,2,Done,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Penyusunan Logika Fungsi & Skeleton Kode (4.3–4.4),Ayin & Nabila,04 May 2026,05 May 2026,2,Done,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Sketsa UI & Pembuatan Repo GitHub,Nabila & Zahratul,05 May 2026,05 May 2026,1,Done,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Finalisasi Laporan & PPT UTS (Maks 12 Slide),Ayin,05 May 2026,06 May 2026,2,Done,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,TAHAP UAS — Implementasi & Deployment,,07 May 2026,04 Jul 2026,59,Planned,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Coding Full Smart Contract (Solidity 0.8.x),Nabila & Ayin,07 May 2026,21 May 2026,15,Future,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Unit Testing Fungsi Smart Contract di Remix,Nabila & Ayin,22 May 2026,31 May 2026,10,Future,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Development Front-end Web (HTML/CSS/JS),Zahratul & Zahra,01 Jun 2026,15 Jun 2026,15,Future,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Integrasi Web3 menggunakan Ethers.js,Zahratul & Zahra,16 Jun 2026,25 Jun 2026,10,Future,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Deployment Kontrak ke Testnet Sepolia,Tim,26 Jun 2026,30 Jun 2026,5,Future,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Finalisasi Video Demo & Laporan Akhir UAS,Ayin,01 Jul 2026,04 Jul 2026,4,Future,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
